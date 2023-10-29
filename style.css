@@ -1,0 +1,25 @@
+body{
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input{
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing:content-box;
+}
+
+button{
+    border-radius: 100px;
+    width: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: red ;
+    background-color: aqua;
+    
+}
